@@ -1,5 +1,0 @@
-"""
-comentarios
-de multiplas
-linhas
-"""

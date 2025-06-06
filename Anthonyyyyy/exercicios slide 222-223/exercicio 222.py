@@ -1,7 +1,0 @@
-num1= int(input("digite um número: "))
-num2= int(input("digite um número: "))
-num3= int(input("digite um número: "))
-maior= max(num1, num2, num3)
-menor= min(num1, num2, num3)
-soma= sum([num1, num2, num3])
-print(f"o maior é {maior} e o menor é {menor} e a soma é {soma}")

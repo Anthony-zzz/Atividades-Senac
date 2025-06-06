@@ -1,1 +1,0 @@
-print("\n\nOi Lindaaaaaaaaaaaaaaaaaaaaaaa " *3)
