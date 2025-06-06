@@ -1,0 +1,6 @@
+frase= input("digite your frase: ")
+palabra= frase.split()
+num_palabra= len(palabra)
+num_letras= len(frase.replace("", ""))
+num_espacos= frase.count(" ")
+print(f"\nnúmeros de palavras:\n\033[3m{num_palabra}\033[0m \nnúmero de letras:\n\033[3m{num_letras}\033[0m\nnúmero de espaços:\n\033[3m{num_espacos}\033[0m ")
